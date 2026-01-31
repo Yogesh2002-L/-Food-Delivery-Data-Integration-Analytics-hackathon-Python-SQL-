@@ -57,7 +57,47 @@ Missing values become NaN
 Python
 Pandas
 Matplotlib
-
 SQLite (in-memory DB)
-
 Jupyter Notebook / VS Code
+
+
+# 📊 Analysis & Insights
+# ✅ 1. Order Trends Over Time
+Month-wise order coun
+Month-wise revenue growth
+Quarterly revenue peak analysis
+
+# ✅ 2. User Behavior Patterns
+Top active users
+High spenders
+Average order value per user
+
+# ✅ 3. City-wise and Cuisine-wise Performance
+Cities with maximum revenue
+Top cuisines by revenue
+Cuisine AOV (average order value)
+
+# ✅ 4. Membership Impact (Gold vs Regular)
+Order share by membership
+Revenue contribution by membership
+Gold vs Regular spending distribution
+
+# ✅ 5. Revenue Distribution & Seasonality
+Histogram distribution of revenue
+Seasonality analysis by month & quarter
+
+# ✅ Key Learnings
+Practical experience in ETL pipeline creation
+Handling multiple data formats (CSV, JSON, SQL)
+Real-world data merging logic (joins)
+Business analytics and visualization
+Insights generation for decision-making
+
+# 🏁 Conclusion
+This project demonstrates a full cycle of:
+✅ data ingestion → ✅ integration → ✅ transformation → ✅ analysis → ✅ insights.
+It is useful for roles like:
+Data Analyst
+Data Engineer (Beginner)
+Business Analyst
+Python Developer
